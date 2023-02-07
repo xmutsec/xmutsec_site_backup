@@ -1,2 +1,3 @@
-# xmutsec_site_backup
-厦门理工学院信息安全协会旧站点备份
+厦门理工学院信息安仝协会官冈
+
+Designed by rYu1nser
